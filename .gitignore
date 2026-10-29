@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.db
+backend/models/
+blockchain/artifacts/
+blockchain/cache/
+blockchain/deployment.json
+.env
